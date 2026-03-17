@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi, I'm Monisha 👋
 
-<!--
-**Monishas1120/Monishas1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre Final Year Computer Science Student  
+💻 Passionate about Full Stack Development &  Cloud 
+🚀 Interested in building real-world applications  
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on
+🍽️ Recipe Recommendation System (Deep Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently learning
+    - Data Structures & Algorithms  
+    - MERN Stack  
+
+ 📄 Resume
+👉 [View My Resume](https://drive.google.com/file/d/1W8NfUbDyu8b1aDkw0YKJ4x_6i2f_SSaP/view?usp=drive_link)
+
+📧 vijayaluck.me@gmail.com  
